@@ -1,7 +1,7 @@
 ## Olá, eu sou o Felipe Borth! 👋
 
-Sou estudante de Engenharia de Software 💻<br>
-Técnico em Informática 💻<br>
+Estudante de Engenharia de Software 💻<br>
+Técnico em Informática 🎓<br>
 Tenho 20 anos ⚡️<br>
 Desenvolvimento de Sistemas e Projetos 🚀<br>
 Entre em contato para mais informações 📧<br>
