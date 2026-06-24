@@ -21,5 +21,4 @@ Entre em contato para mais informações 📧<br>
  
 <div> 
 <a href="https://linktr.ee/felborth" target="_blank"><img src="https://img.shields.io/badge/@felborth-39E09B?style=for-the-badge&logo=linktree&logoColor=white"></a>
-<a href="https://linktr.ee/felborthdev" target="_blank"><img src="https://img.shields.io/badge/@felborthdev-39E09B?style=for-the-badge&logo=linktree&logoColor=white"></a>
 </div>
