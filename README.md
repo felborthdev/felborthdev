@@ -1,4 +1,4 @@
-## Olá, eu sou o Felipe Borth! 👋
+## Olá, eu sou o Borth! 👋
 
 Sou estudante de Engenharia de Software 💻<br>
 Técnico em Informática 🎓<br>
